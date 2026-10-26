@@ -1,0 +1,577 @@
+{
+ "title": "Daily X narrative digest — 2026-10-26",
+ "date": "2026-10-26",
+ "timezone": "Europe/London",
+ "updated": "2026-10-26T22:15:00+00:00",
+ "brand_title": "Mahdi's X Virality Score",
+ "brand_handle": "@mahdi",
+ "hits": [
+  {
+   "name": "Ethan Mollick",
+   "handle": "@emollick",
+   "views": 160914,
+   "url": "https://x.com/emollick/status/2114503849826549842",
+   "id": "2114503849826549842",
+   "created_at": "2026-10-25T23:46:18.000Z",
+   "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+   "original_en": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+   "highlight": true
+  },
+  {
+   "name": "Gergely Orosz",
+   "handle": "@GergelyOrosz",
+   "views": 157417,
+   "url": "https://x.com/GergelyOrosz/status/2114618906166112593",
+   "id": "2114618906166112593",
+   "created_at": "2026-10-26T07:23:29.000Z",
+   "text": "For a sw engineer, there is practically no upside but large downside side to be an asshole to a fellow engineer on this site.\n\nIt is a career limiting move: because no one wants to hire a jerk (or have a jerk as a new colleague)\n\nUnless you’re checking out of tech: why do it?",
+   "original_en": "For a sw engineer, there is practically no upside but large downside side to be an asshole to a fellow engineer on this site.\n\nIt is a career limiting move: because no one wants to hire a jerk (or have a jerk as a new colleague)\n\nUnless you’re checking out of tech: why do it?",
+   "highlight": true
+  },
+  {
+   "name": "Guillermo Rauch",
+   "handle": "@rauchg",
+   "views": 74222,
+   "url": "https://x.com/rauchg/status/2114770919436808572",
+   "id": "2114770919436808572",
+   "created_at": "2026-10-26T17:27:32.000Z",
+   "text": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU.\n\nIt runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip.\n\nI was able to chat via 3 separate mechanisms:\n① CPU https://t.co/zXQ6lH9Gxd",
+   "original_en": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU.\n\nIt runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip.\n\nI was able to chat via 3 separate mechanisms:\n① CPU https://t.co/zXQ6lH9Gxd",
+   "highlight": true
+  },
+  {
+   "name": "Akshay 🚀",
+   "handle": "@akshay_pachaar",
+   "views": 59845,
+   "url": "https://x.com/akshay_pachaar/status/2114659720602534014",
+   "id": "2114659720602534014",
+   "created_at": "2026-10-26T10:05:40.000Z",
+   "text": "RAG is so back!\n\nA new paper shows that straightforward retrieval from chat history can outperform much more complex agent memory systems.\n\nThe approach, RAW-RAG, retrieves relevant passages from the original conversation, reranks them, and passes the evidence to an LLM.\n\nAcross https://t.co/8mvkcOY1C4 https://t.co/Cns0DkVtJi",
+   "original_en": "RAG is so back!\n\nA new paper shows that straightforward retrieval from chat history can outperform much more complex agent memory systems.\n\nThe approach, RAW-RAG, retrieves relevant passages from the original conversation, reranks them, and passes the evidence to an LLM.\n\nAcross https://t.co/8mvkcOY1C4 https://t.co/Cns0DkVtJi",
+   "highlight": true,
+   "self_quote": true
+  },
+  {
+   "name": "Philipp Schmid",
+   "handle": "@_philschmid",
+   "views": 48594,
+   "url": "https://x.com/_philschmid/status/2114773524787187804",
+   "id": "2114773524787187804",
+   "created_at": "2026-10-26T17:37:53.000Z",
+   "text": "We launched the Gemini API CLI. A CLI for calling the Gemini API. Give it to the agent you already use (Claude Code, Codex, Antigravity, Cursor, OpenClaw, Hermes...). It's NOT a new coding agent you can use it too:\n\n1. Generate images, video, speech, music.\n2. Analyze PDFs, https://t.co/JA1FEBx4tI",
+   "original_en": "We launched the Gemini API CLI. A CLI for calling the Gemini API. Give it to the agent you already use (Claude Code, Codex, Antigravity, Cursor, OpenClaw, Hermes...). It's NOT a new coding agent you can use it too:\n\n1. Generate images, video, speech, music.\n2. Analyze PDFs, https://t.co/JA1FEBx4tI",
+   "highlight": true
+  },
+  {
+   "name": "Matt Pocock",
+   "handle": "@mattpocockuk",
+   "views": 37700,
+   "url": "https://x.com/mattpocockuk/status/2114749427889979405",
+   "id": "2114749427889979405",
+   "created_at": "2026-10-26T16:02:08.000Z",
+   "text": "Prompt of the day:\n\nSplit this \"one-way door\" PR into two:\n\n1. A PR that implements everything, except it can be easily reverted (a two-way door)\n2. A followup PR (stacked on top) that actually goes through the one-way door\n\nAKA expand/contract. Use feature flags as needed.\n\n---",
+   "original_en": "Prompt of the day:\n\nSplit this \"one-way door\" PR into two:\n\n1. A PR that implements everything, except it can be easily reverted (a two-way door)\n2. A followup PR (stacked on top) that actually goes through the one-way door\n\nAKA expand/contract. Use feature flags as needed.\n\n---",
+   "highlight": true
+  },
+  {
+   "name": "Peter Yang",
+   "handle": "@petergyang",
+   "views": 37001,
+   "url": "https://x.com/petergyang/status/2114507378532229214",
+   "id": "2114507378532229214",
+   "created_at": "2026-10-26T00:00:19.000Z",
+   "text": "Here’s how to use Claude to copy any video shorts style in a few minutes.\n\nFrom @jake11moran:\n\n“We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change.\n\nYou can see where we’re https://t.co/Q6kLXTma5i https://t.co/Hry7d2c4db",
+   "original_en": "Here’s how to use Claude to copy any video shorts style in a few minutes.\n\nFrom @jake11moran:\n\n“We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change.\n\nYou can see where we’re https://t.co/Q6kLXTma5i https://t.co/Hry7d2c4db",
+   "highlight": true,
+   "self_quote": true
+  },
+  {
+   "name": "Kai",
+   "handle": "@hqmank",
+   "views": 30759,
+   "url": "https://x.com/hqmank/status/2114543584292536320",
+   "id": "2114543584292536320",
+   "created_at": "2026-10-26T02:24:11.000Z",
+   "text": "I've used Tailscale for years and somehow missed Tailnet Lock.\n\nBy default, Tailscale's coordination server decides which devices can join your tailnet. If that server were ever hacked, an attacker could slip their own device in.\n\nTailnet Lock takes that trust away. Every new https://t.co/6IIJZ6zmMo",
+   "original_en": "I've used Tailscale for years and somehow missed Tailnet Lock.\n\nBy default, Tailscale's coordination server decides which devices can join your tailnet. If that server were ever hacked, an attacker could slip their own device in.\n\nTailnet Lock takes that trust away. Every new https://t.co/6IIJZ6zmMo",
+   "highlight": true
+  },
+  {
+   "name": "dax",
+   "handle": "@thdxr",
+   "views": 23767,
+   "url": "https://x.com/thdxr/status/2114754693255602450",
+   "id": "2114754693255602450",
+   "created_at": "2026-10-26T16:23:03.000Z",
+   "text": "since OpenCode has access to its own api, it can query history of the current session\n\ncombined with codemode it can do a targeted search that doesn't bloat context\n\nhere it's looking up how it dealt with uber eats in the past, something it lost in compaction https://t.co/b4xLVrV6gF",
+   "original_en": "since OpenCode has access to its own api, it can query history of the current session\n\ncombined with codemode it can do a targeted search that doesn't bloat context\n\nhere it's looking up how it dealt with uber eats in the past, something it lost in compaction https://t.co/b4xLVrV6gF",
+   "highlight": true
+  },
+  {
+   "name": "Arpit Bhayani",
+   "handle": "@arpit_bhayani",
+   "views": 21571,
+   "url": "https://x.com/arpit_bhayani/status/2114707961922953652",
+   "id": "2114707961922953652",
+   "created_at": "2026-10-26T13:17:22.000Z",
+   "text": "Tweet ID is a 64-bit integer, but the Twitter API sends it as a string. Here's why...\n\nTwitter generates IDs using Snowflake, which packs a timestamp, a worker ID, and a local sequence counter into 64 bits. Internally, it is a plain integer, which is great for sorting by time and",
+   "original_en": "Tweet ID is a 64-bit integer, but the Twitter API sends it as a string. Here's why...\n\nTwitter generates IDs using Snowflake, which packs a timestamp, a worker ID, and a local sequence counter into 64 bits. Internally, it is a plain integer, which is great for sorting by time and",
+   "highlight": true
+  },
+  {
+   "name": "Gergely Orosz",
+   "handle": "@GergelyOrosz",
+   "views": 19791,
+   "url": "https://x.com/GergelyOrosz/status/2114619423025664250",
+   "id": "2114619423025664250",
+   "created_at": "2026-10-26T07:25:32.000Z",
+   "text": "Also a reason we see mostly eg accounts, founders or people with their own businesses being jerks to one another online (I’m talking non anon accounts) \n\nThey don’t need / want to be hired by anyone anyway\n\nBut if you do want employment for the foreseeable future, it’s",
+   "original_en": "Also a reason we see mostly eg accounts, founders or people with their own businesses being jerks to one another online (I’m talking non anon accounts) \n\nThey don’t need / want to be hired by anyone anyway\n\nBut if you do want employment for the foreseeable future, it’s",
+   "highlight": true
+  },
+  {
+   "name": "Matt Pocock",
+   "handle": "@mattpocockuk",
+   "views": 18694,
+   "url": "https://x.com/mattpocockuk/status/2114812980948808016",
+   "id": "2114812980948808016",
+   "created_at": "2026-10-26T20:14:40.000Z",
+   "text": "Every so often folks ask me \"do you still get nervous doing talks\"\n\nI have done hundreds of them, and used to be a voice coach and public speaking coach. So you think I'd be used to them by now.\n\nAbsolutely not - here is my heart rate data during a 20-minute talk that started at https://t.co/nAfj445JrY",
+   "original_en": "Every so often folks ask me \"do you still get nervous doing talks\"\n\nI have done hundreds of them, and used to be a voice coach and public speaking coach. So you think I'd be used to them by now.\n\nAbsolutely not - here is my heart rate data during a 20-minute talk that started at https://t.co/nAfj445JrY",
+   "highlight": true
+  },
+  {
+   "name": "Gergely Orosz",
+   "handle": "@GergelyOrosz",
+   "views": 18630,
+   "url": "https://x.com/GergelyOrosz/status/2114620882379288865",
+   "id": "2114620882379288865",
+   "created_at": "2026-10-26T07:31:20.000Z",
+   "text": "Same applies to insulting a whole company.\n\nI still remember this one ex OpenAI engineer who publicly badmouthed all of OAI engineering after leaving to another lab\n\nLasted less than 6 months at that new lab… and I imagine how much harder the following job search was with the",
+   "original_en": "Same applies to insulting a whole company.\n\nI still remember this one ex OpenAI engineer who publicly badmouthed all of OAI engineering after leaving to another lab\n\nLasted less than 6 months at that new lab… and I imagine how much harder the following job search was with the",
+   "highlight": true
+  },
+  {
+   "name": "Ryan Carson",
+   "handle": "@ryancarson",
+   "views": 18201,
+   "url": "https://x.com/ryancarson/status/2114732697570668711",
+   "id": "2114732697570668711",
+   "created_at": "2026-10-26T14:55:39.000Z",
+   "text": "There’s never been a better time to major in cs",
+   "original_en": "There’s never been a better time to major in cs",
+   "highlight": true
+  },
+  {
+   "name": "Akshay 🚀",
+   "handle": "@akshay_pachaar",
+   "views": 17926,
+   "url": "https://x.com/akshay_pachaar/status/2114717175877636508",
+   "id": "2114717175877636508",
+   "created_at": "2026-10-26T13:53:58.000Z",
+   "text": "I'm blown away by Grok @bot.\n\nThis is the 14-bot team that handles my inbox, research, code, and design, and I only talk to 4 of them.\n\n(bookmark so you don't lose this)\n\nMy executive staff of Pam, Tyrion, Gilfoyle, and Rachel takes every request, hands it to their teams, and https://t.co/g7PKtGWFye",
+   "original_en": "I'm blown away by Grok @bot.\n\nThis is the 14-bot team that handles my inbox, research, code, and design, and I only talk to 4 of them.\n\n(bookmark so you don't lose this)\n\nMy executive staff of Pam, Tyrion, Gilfoyle, and Rachel takes every request, hands it to their teams, and https://t.co/g7PKtGWFye",
+   "highlight": true
+  },
+  {
+   "name": "elvis",
+   "handle": "@omarsar0",
+   "views": 13244,
+   "url": "https://x.com/omarsar0/status/2114719919057060210",
+   "id": "2114719919057060210",
+   "created_at": "2026-10-26T14:04:52.000Z",
+   "text": "https://t.co/tXueUSii14",
+   "original_en": "https://t.co/tXueUSii14",
+   "highlight": true
+  },
+  {
+   "name": "Ethan Mollick",
+   "handle": "@emollick",
+   "views": 12885,
+   "url": "https://x.com/emollick/status/2114822071016398918",
+   "id": "2114822071016398918",
+   "created_at": "2026-10-26T20:50:47.000Z",
+   "text": "I had GPT-6 Pro revisit the cool finding that violent video games reduce crime, as people stay home playing them. It downloaded fresh crime data &amp; extended prior work.\n\nYes, GTA V's 2013 launch was linked with a dip in violence internationally. Other games are more ambiguous. https://t.co/OPgInkfpXm",
+   "original_en": "I had GPT-6 Pro revisit the cool finding that violent video games reduce crime, as people stay home playing them. It downloaded fresh crime data &amp; extended prior work.\n\nYes, GTA V's 2013 launch was linked with a dip in violence internationally. Other games are more ambiguous. https://t.co/OPgInkfpXm",
+   "highlight": true
+  },
+  {
+   "name": "elvis",
+   "handle": "@omarsar0",
+   "views": 12366,
+   "url": "https://x.com/omarsar0/status/2114732037827662278",
+   "id": "2114732037827662278",
+   "created_at": "2026-10-26T14:53:02.000Z",
+   "text": "Learn to build a custom harness, folks!\n\nThere is so much alpha in understanding how to optimize the harness.\n\nThis work shows the benefits of a smart harness configuration and caching the decisions your agent harness has already made.\n\n(bookmark it)\n\nThey propose HarnessMM, https://t.co/dGgQRQ44aa",
+   "original_en": "Learn to build a custom harness, folks!\n\nThere is so much alpha in understanding how to optimize the harness.\n\nThis work shows the benefits of a smart harness configuration and caching the decisions your agent harness has already made.\n\n(bookmark it)\n\nThey propose HarnessMM, https://t.co/dGgQRQ44aa",
+   "highlight": true
+  },
+  {
+   "name": "Gergely Orosz",
+   "handle": "@GergelyOrosz",
+   "views": 11519,
+   "url": "https://x.com/GergelyOrosz/status/2114797436208337059",
+   "id": "2114797436208337059",
+   "created_at": "2026-10-26T19:12:54.000Z",
+   "text": "When I went thru 20% layoffs at Uber in 2020 (COVID), a few people on my team asked: \"can I ASK to be let go and get the package everyone else is getting?\"\n\nThe answer was \"no, we don't have this perk.\" People would have taken it. Microsoft now allows this option as first. (I'm",
+   "original_en": "When I went thru 20% layoffs at Uber in 2020 (COVID), a few people on my team asked: \"can I ASK to be let go and get the package everyone else is getting?\"\n\nThe answer was \"no, we don't have this perk.\" People would have taken it. Microsoft now allows this option as first. (I'm",
+   "highlight": true
+  },
+  {
+   "name": "Alex Xu",
+   "handle": "@alexxubyte",
+   "views": 8554,
+   "url": "https://x.com/alexxubyte/status/2114741343113085285",
+   "id": "2114741343113085285",
+   "created_at": "2026-10-26T15:30:00.000Z",
+   "text": "AI Terms You Need to Know https://t.co/hcW17dRjHn",
+   "original_en": "AI Terms You Need to Know https://t.co/hcW17dRjHn",
+   "highlight": false
+  },
+  {
+   "name": "Cory House",
+   "handle": "@housecor",
+   "views": 8144,
+   "url": "https://x.com/housecor/status/2114745706632098067",
+   "id": "2114745706632098067",
+   "created_at": "2026-10-26T15:47:21.000Z",
+   "text": "AI means a big team can’t possibly keep track of all the daily changes.\n\nSo, I suspect the ideal team size for 2027 is 1-2 people.\n\nAny more than that and people can't keep up with the changes, so they don't understand the system they're building.",
+   "original_en": "AI means a big team can’t possibly keep track of all the daily changes.\n\nSo, I suspect the ideal team size for 2027 is 1-2 people.\n\nAny more than that and people can't keep up with the changes, so they don't understand the system they're building.",
+   "highlight": false
+  },
+  {
+   "name": "elvis",
+   "handle": "@omarsar0",
+   "views": 8143,
+   "url": "https://x.com/omarsar0/status/2114720659792376262",
+   "id": "2114720659792376262",
+   "created_at": "2026-10-26T14:07:49.000Z",
+   "text": "After Jev, this is the most exciting System One model.\n\nCloudflare introduced it last week. \n\nIt's great for extraction tasks and complements decision models like Jev. \n\nLearn more in my new tutorial and check out the interactive playground: https://t.co/ghlQXEDYov https://t.co/nsr94jQCxg",
+   "original_en": "After Jev, this is the most exciting System One model.\n\nCloudflare introduced it last week. \n\nIt's great for extraction tasks and complements decision models like Jev. \n\nLearn more in my new tutorial and check out the interactive playground: https://t.co/ghlQXEDYov https://t.co/nsr94jQCxg",
+   "highlight": false,
+   "self_quote": true
+  },
+  {
+   "name": "Peter Yang",
+   "handle": "@petergyang",
+   "views": 6430,
+   "url": "https://x.com/petergyang/status/2114757201915208135",
+   "id": "2114757201915208135",
+   "created_at": "2026-10-26T16:33:01.000Z",
+   "text": "I love that two of the main AI benefits @AnthropicAI highlights in its S-1 are curing diseases and getting treatment to more people.\n\n1) Curing diseases\n\n\"AI will profoundly accelerate the rate of progress in biology and medicine, potentially curing diseases that have plagued https://t.co/pTcReivcYB",
+   "original_en": "I love that two of the main AI benefits @AnthropicAI highlights in its S-1 are curing diseases and getting treatment to more people.\n\n1) Curing diseases\n\n\"AI will profoundly accelerate the rate of progress in biology and medicine, potentially curing diseases that have plagued https://t.co/pTcReivcYB",
+   "highlight": false
+  },
+  {
+   "name": "Kai",
+   "handle": "@hqmank",
+   "views": 6267,
+   "url": "https://x.com/hqmank/status/2114670012086513901",
+   "id": "2114670012086513901",
+   "created_at": "2026-10-26T10:46:34.000Z",
+   "text": "I tested Kimi K3.1 Pro by asking it to turn a PDF manual into an interactive 3D assembly guide.\n\nThe one-shot result was honestly impressive.\n\nThe manual is for a Bluetooth speaker kit my kid is building. All I gave the model was the PDF and a one-line prompt.\n\nEvery part became https://t.co/ztOD2V63f1",
+   "original_en": "I tested Kimi K3.1 Pro by asking it to turn a PDF manual into an interactive 3D assembly guide.\n\nThe one-shot result was honestly impressive.\n\nThe manual is for a Bluetooth speaker kit my kid is building. All I gave the model was the PDF and a one-line prompt.\n\nEvery part became https://t.co/ztOD2V63f1",
+   "highlight": false
+  },
+  {
+   "name": "Gergely Orosz",
+   "handle": "@GergelyOrosz",
+   "views": 6245,
+   "url": "https://x.com/GergelyOrosz/status/2114832565613809722",
+   "id": "2114832565613809722",
+   "created_at": "2026-10-26T21:32:29.000Z",
+   "text": "I know there's a lot of gloom with the MS buyouts and implications for Microsoft\n\nBUT I wanted to remind that there's still massive pull for FDE hiring across the industry, and AI-related infra folks as I hear. Eg Salesforce is hiring FDEs like mad.\n\nKeep up with the cutting",
+   "original_en": "I know there's a lot of gloom with the MS buyouts and implications for Microsoft\n\nBUT I wanted to remind that there's still massive pull for FDE hiring across the industry, and AI-related infra folks as I hear. Eg Salesforce is hiring FDEs like mad.\n\nKeep up with the cutting",
+   "highlight": false
+  }
+ ],
+ "virals": [],
+ "outsiders": [],
+ "patterns": [],
+ "no_hits": [
+  {
+   "handle": "@ThePrimeagen",
+   "reason": "No day original reached 5,000 views; highest observed was 0 views.",
+   "max_views": 0
+  },
+  {
+   "handle": "@simonw",
+   "reason": "No original posts in the window.",
+   "max_views": 0
+  },
+  {
+   "handle": "@steipete",
+   "reason": "No original posts in the window.",
+   "max_views": 0
+  },
+  {
+   "handle": "@swyx",
+   "reason": "No day original reached 5,000 views; highest observed was 1,255 views.",
+   "max_views": 1255
+  },
+  {
+   "handle": "@mitsuhiko",
+   "reason": "No original posts in the window.",
+   "max_views": 0
+  },
+  {
+   "handle": "@nutlope",
+   "reason": "No day original reached 5,000 views; highest observed was 391 views.",
+   "max_views": 391
+  },
+  {
+   "handle": "@badlogicgames",
+   "reason": "No original posts in the window.",
+   "max_views": 0
+  },
+  {
+   "handle": "@johncrickett",
+   "reason": "No original posts in the window.",
+   "max_views": 0
+  },
+  {
+   "handle": "@Dhanush_Nehru",
+   "reason": "No day original reached 5,000 views; highest observed was 1,444 views.",
+   "max_views": 1444
+  }
+ ],
+ "virals_narrative": "First run (dry run): outsider scan not collected yet.",
+ "narrative_synthesis": "First run (dry run): outsider scan not collected yet.",
+ "virals_window": "last ~48h",
+ "virals_target": 20,
+ "hits_count": 25,
+ "outsiders_count": 0,
+ "leaderboards": {
+  "as_of": "2026-10-26",
+  "tracking_start": "2026-10-26",
+  "days_included": [
+   "2026-10-26"
+  ],
+  "month_days_included": [
+   "2026-10-26"
+  ],
+  "week": {
+   "label": "Rolling week · from Oct 26",
+   "range": [
+    "2026-10-26",
+    "2026-10-26"
+   ],
+   "entries": []
+  },
+  "month": {
+   "label": "October 2026 · from Oct 26",
+   "range": [
+    "2026-10-26",
+    "2026-10-26"
+   ],
+   "entries": []
+  }
+ },
+ "board_features": {
+  "count_up": true,
+  "live_pulse": true,
+  "theme_toggle": true,
+  "themes": [
+   "night",
+   "day"
+  ],
+  "grok_ambient": true,
+  "week_month_boards": true,
+  "day_roster_best_total": true,
+  "day_compare_chart": true,
+  "week_strip": true,
+  "no_hits_reasons": true,
+  "marker_class": "xvs-dash-2026",
+  "top10_drafts_v4": true,
+  "trend_keywords": true,
+  "trend_radar": true,
+  "x_keyword_table": true,
+  "experiment": true,
+  "self_quote_badge": true
+ },
+ "operator": {
+  "handle": "@mahdi",
+  "name": "Mahdi Taghizadeh",
+  "profile_url": "https://x.com/mahdi"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [
+  {
+   "handle": "@emollick",
+   "name": "Ethan Mollick",
+   "views": 160914,
+   "total_views": 173799,
+   "hit": true
+  },
+  {
+   "handle": "@GergelyOrosz",
+   "name": "Gergely Orosz",
+   "views": 157417,
+   "total_views": 219584,
+   "hit": true
+  },
+  {
+   "handle": "@rauchg",
+   "name": "Guillermo Rauch",
+   "views": 74222,
+   "total_views": 74222,
+   "hit": true
+  },
+  {
+   "handle": "@akshay_pachaar",
+   "name": "Akshay 🚀",
+   "views": 59845,
+   "total_views": 77771,
+   "hit": true
+  },
+  {
+   "handle": "@_philschmid",
+   "name": "Philipp Schmid",
+   "views": 48594,
+   "total_views": 48594,
+   "hit": true
+  },
+  {
+   "handle": "@mattpocockuk",
+   "name": "Matt Pocock",
+   "views": 37700,
+   "total_views": 56394,
+   "hit": true
+  },
+  {
+   "handle": "@petergyang",
+   "name": "Peter Yang",
+   "views": 37001,
+   "total_views": 45612,
+   "hit": true
+  },
+  {
+   "handle": "@hqmank",
+   "name": "Kai",
+   "views": 30759,
+   "total_views": 45456,
+   "hit": true
+  },
+  {
+   "handle": "@thdxr",
+   "name": "dax",
+   "views": 23767,
+   "total_views": 23767,
+   "hit": true
+  },
+  {
+   "handle": "@arpit_bhayani",
+   "name": "Arpit Bhayani",
+   "views": 21571,
+   "total_views": 21571,
+   "hit": true
+  },
+  {
+   "handle": "@ryancarson",
+   "name": "Ryan Carson",
+   "views": 18201,
+   "total_views": 18201,
+   "hit": true
+  },
+  {
+   "handle": "@omarsar0",
+   "name": "elvis",
+   "views": 13244,
+   "total_views": 35589,
+   "hit": true
+  },
+  {
+   "handle": "@alexxubyte",
+   "name": "Alex Xu",
+   "views": 8554,
+   "total_views": 8554,
+   "hit": true
+  },
+  {
+   "handle": "@housecor",
+   "name": "Cory House",
+   "views": 8144,
+   "total_views": 8144,
+   "hit": true
+  },
+  {
+   "handle": "@Dhanush_Nehru",
+   "name": "Dhanush N",
+   "views": 1444,
+   "total_views": 3383,
+   "hit": false
+  },
+  {
+   "handle": "@swyx",
+   "name": "swyx",
+   "views": 1255,
+   "total_views": 1255,
+   "hit": false
+  },
+  {
+   "handle": "@mahdi",
+   "name": "Mahdi Taghizadeh",
+   "views": 453,
+   "total_views": 1338,
+   "hit": false
+  },
+  {
+   "handle": "@nutlope",
+   "name": "Hassan",
+   "views": 391,
+   "total_views": 391,
+   "hit": false
+  },
+  {
+   "handle": "@ThePrimeagen",
+   "name": "ThePrimeagen",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  },
+  {
+   "handle": "@simonw",
+   "name": "Simon Willison",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  },
+  {
+   "handle": "@steipete",
+   "name": "Peter Steinberger 🦞",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  },
+  {
+   "handle": "@mitsuhiko",
+   "name": "Armin Ronacher ⇌",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  },
+  {
+   "handle": "@badlogicgames",
+   "name": "Mario Zechner",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  },
+  {
+   "handle": "@johncrickett",
+   "name": "John Crickett",
+   "views": 0,
+   "total_views": 0,
+   "hit": false
+  }
+ ],
+ "you_rank": {
+  "handle": "@mahdi",
+  "best_views": 453,
+  "total_views": 1338,
+  "rank_among_watchlist": 17
+ },
+ "trend_input_only_posts": []
+}
